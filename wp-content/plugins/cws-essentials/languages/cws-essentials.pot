@@ -1,0 +1,2318 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cws Essentials\n"
+"POT-Creation-Date: 2019-09-09 15:17+0300\n"
+"PO-Revision-Date: 2018-01-22 16:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: CWS Team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: cws-essentials.php:241 cws-essentials.php:543 cws-essentials.php:797
+msgid "Thumbnails"
+msgstr ""
+
+#: cws-essentials.php:299 cws-essentials.php:316 cws-metaboxes.php:2493
+msgid "Image"
+msgstr ""
+
+#: cws-essentials.php:317 cws-essentials.php:379
+msgid "Upload your photo here."
+msgstr ""
+
+#: cws-essentials.php:374 cws-essentials.php:707 cws-metaboxes.php:361
+#: widgets/cws_about.php:42
+msgid "Position"
+msgstr ""
+
+#: cws-essentials.php:378 widgets/cws_about.php:17
+msgid "Avatar"
+msgstr ""
+
+#: cws-essentials.php:386 cws-metaboxes.php:1626
+msgid "Social networks"
+msgstr ""
+
+#: cws-essentials.php:387 cws-metaboxes.php:1627
+msgid "Add new social network"
+msgstr ""
+
+#: cws-essentials.php:395 cws-metaboxes.php:1632
+msgid "Social account title"
+msgstr ""
+
+#: cws-essentials.php:401
+msgid "Icon for this social contact"
+msgstr ""
+
+#: cws-essentials.php:404 widgets/cws_contact.php:84
+#: widgets/cws_testimonials.php:42
+msgid "Icon color"
+msgstr ""
+
+#: cws-essentials.php:413 cws-metaboxes.php:1642
+msgid "Url to your account"
+msgstr ""
+
+#: cws-essentials.php:419
+msgid "Author page URL"
+msgstr ""
+
+#: cws-essentials.php:505 cws-essentials.php:507
+msgid "Portfolio"
+msgstr ""
+
+#: cws-essentials.php:506
+msgid "Portfolio Item"
+msgstr ""
+
+#: cws-essentials.php:508 cws-essentials.php:573 cws-essentials.php:739
+#: cws-essentials.php:740 cws-essentials.php:852
+msgid "Add New"
+msgstr ""
+
+#: cws-essentials.php:509
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: cws-essentials.php:510
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: cws-essentials.php:511
+msgid "New Portfolio Item"
+msgstr ""
+
+#: cws-essentials.php:512
+msgid "View Portfolio Item"
+msgstr ""
+
+#: cws-essentials.php:513
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: cws-essentials.php:514
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: cws-essentials.php:515
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: cws-essentials.php:520
+msgid "Portfolio items"
+msgstr ""
+
+#: cws-essentials.php:569
+msgid "Staff"
+msgstr ""
+
+#: cws-essentials.php:570
+msgid "Staff Item"
+msgstr ""
+
+#: cws-essentials.php:571
+msgid "Our team"
+msgstr ""
+
+#: cws-essentials.php:572 cws-essentials.php:738 cws-essentials.php:851
+#: templates-modules/cws_sc_classes.php:189
+#: templates-modules/cws_sc_events.php:265
+#: templates-modules/cws_sc_portfolio.php:254
+#: templates-modules/cws_sc_testimonials.php:148
+msgid "All"
+msgstr ""
+
+#: cws-essentials.php:574
+msgid "Add New Staff Item"
+msgstr ""
+
+#: cws-essentials.php:575
+msgid "Edit Staff Item's Info"
+msgstr ""
+
+#: cws-essentials.php:576
+msgid "New Staff Item"
+msgstr ""
+
+#: cws-essentials.php:577
+msgid "View Staff Item's Info"
+msgstr ""
+
+#: cws-essentials.php:578
+msgid "Find Staff Item"
+msgstr ""
+
+#: cws-essentials.php:579
+msgid "No Staff Items Found"
+msgstr ""
+
+#: cws-essentials.php:580
+msgid "No Staff Items Found in Trash"
+msgstr ""
+
+#: cws-essentials.php:585
+msgid "Staff Items"
+msgstr ""
+
+#: cws-essentials.php:609 cws-essentials.php:675
+msgid "Departments"
+msgstr ""
+
+#: cws-essentials.php:610
+msgid "Staff Department"
+msgstr ""
+
+#: cws-essentials.php:611
+msgid "All Staff Departments"
+msgstr ""
+
+#: cws-essentials.php:612
+msgid "Edit Staff Department"
+msgstr ""
+
+#: cws-essentials.php:613
+msgid "View Staff Department"
+msgstr ""
+
+#: cws-essentials.php:614
+msgid "Update Staff Department"
+msgstr ""
+
+#: cws-essentials.php:615
+msgid "Add Staff Department"
+msgstr ""
+
+#: cws-essentials.php:616
+msgid "New Staff Department"
+msgstr ""
+
+#: cws-essentials.php:617
+msgid "Parent Staff Department"
+msgstr ""
+
+#: cws-essentials.php:618
+msgid "Parent Staff Department:"
+msgstr ""
+
+#: cws-essentials.php:619
+msgid "Search Staff Departments"
+msgstr ""
+
+#: cws-essentials.php:620
+msgid "Popular Staff Departments"
+msgstr ""
+
+#: cws-essentials.php:621 cws-essentials.php:649 cws-essentials.php:687
+#: cws-essentials.php:716
+msgid "Separate with commas"
+msgstr ""
+
+#: cws-essentials.php:622
+msgid "Add or Remove Staff Departments"
+msgstr ""
+
+#: cws-essentials.php:623
+msgid "Choose from the most used Staff Departments"
+msgstr ""
+
+#: cws-essentials.php:624
+msgid "No Staff Departments Found"
+msgstr ""
+
+#: cws-essentials.php:639 cws-essentials.php:706
+msgid "Positions"
+msgstr ""
+
+#: cws-essentials.php:640
+msgid "Staff Position"
+msgstr ""
+
+#: cws-essentials.php:641
+msgid "All Staff Positions"
+msgstr ""
+
+#: cws-essentials.php:642
+msgid "Edit Staff Position"
+msgstr ""
+
+#: cws-essentials.php:643
+msgid "View Staff Position"
+msgstr ""
+
+#: cws-essentials.php:644
+msgid "Update Staff Position"
+msgstr ""
+
+#: cws-essentials.php:645
+msgid "Add Staff Position"
+msgstr ""
+
+#: cws-essentials.php:646
+msgid "New Staff Position"
+msgstr ""
+
+#: cws-essentials.php:647
+msgid "Search Staff Positions"
+msgstr ""
+
+#: cws-essentials.php:648
+msgid "Popular Staff Positions"
+msgstr ""
+
+#: cws-essentials.php:650
+msgid "Add or Remove Staff Positions"
+msgstr ""
+
+#: cws-essentials.php:651
+msgid "Choose from the most used Staff Positions"
+msgstr ""
+
+#: cws-essentials.php:652
+msgid "No Staff Member positions found"
+msgstr ""
+
+#: cws-essentials.php:676
+msgid "Department"
+msgstr ""
+
+#: cws-essentials.php:677
+msgid "All Departments"
+msgstr ""
+
+#: cws-essentials.php:678
+msgid "Edit Department"
+msgstr ""
+
+#: cws-essentials.php:679
+msgid "View Department"
+msgstr ""
+
+#: cws-essentials.php:680
+msgid "Update Department"
+msgstr ""
+
+#: cws-essentials.php:681
+msgid "Add Department"
+msgstr ""
+
+#: cws-essentials.php:682
+msgid "New Department"
+msgstr ""
+
+#: cws-essentials.php:683
+msgid "Parent Department"
+msgstr ""
+
+#: cws-essentials.php:684
+msgid "Parent Department:"
+msgstr ""
+
+#: cws-essentials.php:685
+msgid "Search Departments"
+msgstr ""
+
+#: cws-essentials.php:686
+msgid "Popular Departments"
+msgstr ""
+
+#: cws-essentials.php:688
+msgid "Add or Remove Departments"
+msgstr ""
+
+#: cws-essentials.php:689
+msgid "Choose from the most used Departments"
+msgstr ""
+
+#: cws-essentials.php:690
+msgid "No Departments found"
+msgstr ""
+
+#: cws-essentials.php:708
+msgid "All Positions"
+msgstr ""
+
+#: cws-essentials.php:709
+msgid "Edit Position"
+msgstr ""
+
+#: cws-essentials.php:710
+msgid "View Position"
+msgstr ""
+
+#: cws-essentials.php:711
+msgid "Update Position"
+msgstr ""
+
+#: cws-essentials.php:712
+msgid "Add Position"
+msgstr ""
+
+#: cws-essentials.php:713
+msgid "New Position"
+msgstr ""
+
+#: cws-essentials.php:714
+msgid "Search Positions"
+msgstr ""
+
+#: cws-essentials.php:715
+msgid "Popular Positions"
+msgstr ""
+
+#: cws-essentials.php:717
+msgid "Add or Remove Positions"
+msgstr ""
+
+#: cws-essentials.php:718
+msgid "Choose from the most used  Positions"
+msgstr ""
+
+#: cws-essentials.php:719
+msgid "No  Positions found"
+msgstr ""
+
+#: cws-essentials.php:735 cws-essentials.php:737 cws-essentials.php:751
+msgid "Testimonials"
+msgstr ""
+
+#: cws-essentials.php:736
+msgid "Testimonial"
+msgstr ""
+
+#: cws-essentials.php:741
+msgid "Edit Testimonial"
+msgstr ""
+
+#: cws-essentials.php:742
+msgid "New Testimonial"
+msgstr ""
+
+#: cws-essentials.php:743
+msgid "View Testimonial"
+msgstr ""
+
+#: cws-essentials.php:744
+msgid "Search Testimonials"
+msgstr ""
+
+#: cws-essentials.php:745
+msgid "No Testimonials Items Found"
+msgstr ""
+
+#: cws-essentials.php:746
+msgid "No Testimonials Items Found in Trash"
+msgstr ""
+
+#: cws-essentials.php:848 cws-essentials.php:849 cws-essentials.php:864
+msgid "Classes"
+msgstr ""
+
+#: cws-essentials.php:850
+msgid "Our Classes"
+msgstr ""
+
+#: cws-essentials.php:853
+msgid "Add New Class"
+msgstr ""
+
+#: cws-essentials.php:854
+msgid "Edit Class"
+msgstr ""
+
+#: cws-essentials.php:855
+msgid "New Class"
+msgstr ""
+
+#: cws-essentials.php:856
+msgid "View Class"
+msgstr ""
+
+#: cws-essentials.php:857
+msgid "Find Classes"
+msgstr ""
+
+#: cws-essentials.php:858
+msgid "No Classess found"
+msgstr ""
+
+#: cws-essentials.php:859
+msgid "No Classess found in Trash"
+msgstr ""
+
+#: cws-essentials.php:1552
+msgid "Back to Projects"
+msgstr ""
+
+#: cws-essentials.php:1903 cws-essentials.php:2361
+msgid "Enter title here..."
+msgstr ""
+
+#: cws-essentials.php:1904 cws-essentials.php:2362
+msgid "Enter description here..."
+msgstr ""
+
+#: cws-essentials.php:2367 cws-metaboxes.php:2431
+#: templates-modules/cws_sc_testimonials.php:361
+#: templates-modules/cws_sc_testimonials.php:369
+msgid "Read More"
+msgstr ""
+
+#: cws-essentials.php:3588
+msgid "Click Me!"
+msgstr ""
+
+#: cws-essentials.php:6121
+msgid "Read more"
+msgstr ""
+
+#: cws-essentials.php:8294
+msgid "Error"
+msgstr ""
+
+#: cws-essentials.php:8329
+msgid "Plugin not installed"
+msgstr ""
+
+#: cws-essentials.php:8329
+msgid "Please install and activate required plugin "
+msgstr ""
+
+#: cws-essentials.php:8329
+msgid "oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: cws-essentials.php:8915 cws-essentials.php:9096
+msgid "Like"
+msgstr ""
+
+#: cws-essentials.php:8916 cws-essentials.php:9092
+msgid "Unlike"
+msgstr ""
+
+#: cws-essentials.php:8926
+msgid "Not permitted"
+msgstr ""
+
+#: cws-essentials.php:9180
+msgid "0"
+msgstr ""
+
+#: cws-essentials.php:9206
+msgid "You Like:"
+msgstr ""
+
+#: cws-essentials.php:9232
+msgid "You do not like anything yet."
+msgstr ""
+
+#: cws-metaboxes.php:24 cws-metaboxes.php:1652
+msgid "General"
+msgstr ""
+
+#: cws-metaboxes.php:28 cws-metaboxes.php:132 cws-metaboxes.php:166
+#: cws-metaboxes.php:206 cws-metaboxes.php:296 cws-metaboxes.php:434
+#: cws-metaboxes.php:606 cws-metaboxes.php:649 cws-metaboxes.php:765
+#: cws-metaboxes.php:787 cws-metaboxes.php:898 cws-metaboxes.php:1059
+#: cws-metaboxes.php:1336 cws-metaboxes.php:1402
+msgid "Customize"
+msgstr ""
+
+#: cws-metaboxes.php:37 cws-metaboxes.php:1660 cws-metaboxes.php:1925
+#: cws-metaboxes.php:2333
+msgid "Sidebar Position"
+msgstr ""
+
+#: cws-metaboxes.php:42 cws-metaboxes.php:75 cws-metaboxes.php:566
+#: cws-metaboxes.php:1664 cws-metaboxes.php:1929 cws-metaboxes.php:2338
+msgid "Default"
+msgstr ""
+
+#: cws-metaboxes.php:43 cws-metaboxes.php:366 cws-metaboxes.php:456
+#: cws-metaboxes.php:469 cws-metaboxes.php:479 cws-metaboxes.php:930
+#: cws-metaboxes.php:940 cws-metaboxes.php:950 cws-metaboxes.php:1147
+#: cws-metaboxes.php:1435 cws-metaboxes.php:1474 cws-metaboxes.php:1665
+#: cws-metaboxes.php:1695 cws-metaboxes.php:1930 cws-metaboxes.php:2176
+#: cws-metaboxes.php:2339 widgets/cws_banner.php:19 widgets/cws_contact.php:122
+msgid "Left"
+msgstr ""
+
+#: cws-metaboxes.php:44 cws-metaboxes.php:356 cws-metaboxes.php:368
+#: cws-metaboxes.php:458 cws-metaboxes.php:470 cws-metaboxes.php:480
+#: cws-metaboxes.php:931 cws-metaboxes.php:941 cws-metaboxes.php:951
+#: cws-metaboxes.php:1149 cws-metaboxes.php:1436 cws-metaboxes.php:1476
+#: cws-metaboxes.php:1666 cws-metaboxes.php:1697 cws-metaboxes.php:1931
+#: cws-metaboxes.php:2177 cws-metaboxes.php:2340 widgets/cws_banner.php:21
+#: widgets/cws_contact.php:124
+msgid "Right"
+msgstr ""
+
+#: cws-metaboxes.php:45 cws-metaboxes.php:1667 cws-metaboxes.php:1932
+#: cws-metaboxes.php:2341
+msgid "Double"
+msgstr ""
+
+#: cws-metaboxes.php:46 cws-metaboxes.php:225 cws-metaboxes.php:391
+#: cws-metaboxes.php:467 cws-metaboxes.php:848 cws-metaboxes.php:1228
+#: cws-metaboxes.php:1364 cws-metaboxes.php:1503 cws-metaboxes.php:1668
+#: cws-metaboxes.php:1720 cws-metaboxes.php:1933 cws-metaboxes.php:1955
+#: cws-metaboxes.php:2342 cws-metaboxes.php:2424 widgets/cws_contact.php:77
+#: widgets/cws_testimonials.php:51
+msgid "None"
+msgstr ""
+
+#: cws-metaboxes.php:50 cws-metaboxes.php:1672 cws-metaboxes.php:1937
+#: cws-metaboxes.php:2346
+msgid "Select a sidebar"
+msgstr ""
+
+#: cws-metaboxes.php:56 cws-metaboxes.php:1678 cws-metaboxes.php:1943
+#: cws-metaboxes.php:2352
+msgid "Select right sidebar"
+msgstr ""
+
+#: cws-metaboxes.php:65
+msgid "Add Blog posts"
+msgstr ""
+
+#: cws-metaboxes.php:72
+msgid "Blog Layout"
+msgstr ""
+
+#: cws-metaboxes.php:76
+msgid "Large"
+msgstr ""
+
+#: cws-metaboxes.php:77
+msgid "Medium"
+msgstr ""
+
+#: cws-metaboxes.php:78
+msgid "Small"
+msgstr ""
+
+#: cws-metaboxes.php:79 cws-metaboxes.php:1811 cws-metaboxes.php:1822
+#: cws-metaboxes.php:1871
+msgid "Two"
+msgstr ""
+
+#: cws-metaboxes.php:80 cws-metaboxes.php:1812 cws-metaboxes.php:1823
+#: cws-metaboxes.php:1872
+msgid "Three"
+msgstr ""
+
+#: cws-metaboxes.php:81 cws-metaboxes.php:1813 cws-metaboxes.php:1824
+#: cws-metaboxes.php:1873
+msgid "Four"
+msgstr ""
+
+#: cws-metaboxes.php:85
+msgid "Category"
+msgstr ""
+
+#: cws-metaboxes.php:93
+msgid "Page Spacings"
+msgstr ""
+
+#: cws-metaboxes.php:97 cws-metaboxes.php:271 cws-metaboxes.php:354
+#: cws-metaboxes.php:468 cws-metaboxes.php:557 cws-metaboxes.php:695
+#: cws-metaboxes.php:808 cws-metaboxes.php:1043 cws-metaboxes.php:1320
+msgid "Top"
+msgstr ""
+
+#: cws-metaboxes.php:98 cws-metaboxes.php:272 cws-metaboxes.php:357
+#: cws-metaboxes.php:558 cws-metaboxes.php:696 cws-metaboxes.php:809
+#: cws-metaboxes.php:1044 cws-metaboxes.php:1321 cws-metaboxes.php:1694
+msgid "Bottom"
+msgstr ""
+
+#: cws-metaboxes.php:107
+msgid "Add Image Slider"
+msgstr ""
+
+#: cws-metaboxes.php:118
+msgid "Full-Width Slider"
+msgstr ""
+
+#: cws-metaboxes.php:129
+msgid "Styling"
+msgstr ""
+
+#: cws-metaboxes.php:138
+msgid "Main color"
+msgstr ""
+
+#: cws-metaboxes.php:145
+msgid "Second color"
+msgstr ""
+
+#: cws-metaboxes.php:152
+msgid "Third color"
+msgstr ""
+
+#: cws-metaboxes.php:163
+msgid "Header"
+msgstr ""
+
+#: cws-metaboxes.php:180 cws-metaboxes.php:183
+msgid "Header order"
+msgstr ""
+
+#: cws-metaboxes.php:181
+msgid "Drag to reorder and customize your header."
+msgstr ""
+
+#: cws-metaboxes.php:197 cws-metaboxes.php:1399
+msgid "Sidebar"
+msgstr ""
+
+#: cws-metaboxes.php:221 cws-metaboxes.php:1499
+msgid "Add Color overlay"
+msgstr ""
+
+#: cws-metaboxes.php:226 cws-metaboxes.php:392 cws-metaboxes.php:849
+#: cws-metaboxes.php:1229 cws-metaboxes.php:1234 cws-metaboxes.php:1365
+#: cws-metaboxes.php:1370 cws-metaboxes.php:1504 cws-metaboxes.php:1509
+#: widgets/cws_testimonials.php:52
+msgid "Color"
+msgstr ""
+
+#: cws-metaboxes.php:227 cws-metaboxes.php:393 cws-metaboxes.php:850
+#: cws-metaboxes.php:1230 cws-metaboxes.php:1366 cws-metaboxes.php:1505
+#: widgets/cws_testimonials.php:53
+msgid "Gradient"
+msgstr ""
+
+#: cws-metaboxes.php:231 cws-metaboxes.php:397 widgets/cws_banner.php:75
+msgid "Overlay color"
+msgstr ""
+
+#: cws-metaboxes.php:239 cws-metaboxes.php:405 cws-metaboxes.php:862
+#: cws-metaboxes.php:1028 cws-metaboxes.php:1243 cws-metaboxes.php:1378
+#: cws-metaboxes.php:1517
+msgid "Opacity (%)"
+msgstr ""
+
+#: cws-metaboxes.php:240 cws-metaboxes.php:406 cws-metaboxes.php:493
+#: cws-metaboxes.php:717 cws-metaboxes.php:863 cws-metaboxes.php:1029
+#: cws-metaboxes.php:1244 cws-metaboxes.php:1379 cws-metaboxes.php:1518
+msgid "In percents"
+msgstr ""
+
+#: cws-metaboxes.php:245 cws-metaboxes.php:411 cws-metaboxes.php:868
+#: cws-metaboxes.php:1384
+msgid "Gradient Settings"
+msgstr ""
+
+#: cws-metaboxes.php:253
+msgid "Override TopBar's Font Color"
+msgstr ""
+
+#: cws-metaboxes.php:260
+msgid "Override TopBar's Font Color on Hover"
+msgstr ""
+
+#: cws-metaboxes.php:267 cws-metaboxes.php:553
+msgid "Add Spacings"
+msgstr ""
+
+#: cws-metaboxes.php:276
+msgid "Header Overlays Slider"
+msgstr ""
+
+#: cws-metaboxes.php:281
+msgid "Header Overlays Content"
+msgstr ""
+
+#: cws-metaboxes.php:293 cws-metaboxes.php:307 cws-metaboxes.php:1457
+#: widgets/cws_contact.php:24
+msgid "Logo"
+msgstr ""
+
+#: cws-metaboxes.php:313
+msgid "Display Logo Variation"
+msgstr ""
+
+#: cws-metaboxes.php:317
+msgid "Dark"
+msgstr ""
+
+#: cws-metaboxes.php:318
+msgid "Light"
+msgstr ""
+
+#: cws-metaboxes.php:319
+msgid "Custom"
+msgstr ""
+
+#: cws-metaboxes.php:323
+msgid "Custom Logo"
+msgstr ""
+
+#: cws-metaboxes.php:329 cws-metaboxes.php:1463 widgets/cws_contact.php:29
+msgid "High-Resolution logo"
+msgstr ""
+
+#: cws-metaboxes.php:334
+msgid "Override mobile logo"
+msgstr ""
+
+#: cws-metaboxes.php:341 cws-metaboxes.php:1480
+msgid "Logo Dimensions"
+msgstr ""
+
+#: cws-metaboxes.php:345 cws-metaboxes.php:634 cws-metaboxes.php:1484
+msgid "Width"
+msgstr ""
+
+#: cws-metaboxes.php:346 cws-metaboxes.php:635 cws-metaboxes.php:1485
+msgid "Height"
+msgstr ""
+
+#: cws-metaboxes.php:350
+msgid "Margins (px)"
+msgstr ""
+
+#: cws-metaboxes.php:355
+msgid "left"
+msgstr ""
+
+#: cws-metaboxes.php:367 cws-metaboxes.php:457 cws-metaboxes.php:1148
+#: cws-metaboxes.php:1475 cws-metaboxes.php:2175 widgets/cws_banner.php:20
+#: widgets/cws_contact.php:123
+msgid "Center"
+msgstr ""
+
+#: cws-metaboxes.php:372
+msgid "Logo in menu box"
+msgstr ""
+
+#: cws-metaboxes.php:378
+msgid "Apply Full-Width Container"
+msgstr ""
+
+#: cws-metaboxes.php:387
+msgid "Add Background Color Overlay to the Logo Area"
+msgstr ""
+
+#: cws-metaboxes.php:431 cws-metaboxes.php:445
+msgid "Menu"
+msgstr ""
+
+#: cws-metaboxes.php:451
+msgid "Menu Alignment"
+msgstr ""
+
+#: cws-metaboxes.php:462
+msgid "Search Icon Location"
+msgstr ""
+
+#: cws-metaboxes.php:474
+msgid "Mobile Menu Location"
+msgstr ""
+
+#: cws-metaboxes.php:484 cws-metaboxes.php:700 widgets/cws_contact.php:91
+msgid "Background color"
+msgstr ""
+
+#: cws-metaboxes.php:492
+msgid "Opacity"
+msgstr ""
+
+#: cws-metaboxes.php:499 cws-metaboxes.php:722
+msgid "Override Font color"
+msgstr ""
+
+#: cws-metaboxes.php:506
+msgid "Override Font hover color"
+msgstr ""
+
+#: cws-metaboxes.php:513
+msgid "Highlight color"
+msgstr ""
+
+#: cws-metaboxes.php:521
+msgid "Submenu item Font color"
+msgstr ""
+
+#: cws-metaboxes.php:528
+msgid "Submenu item Font color on Hover"
+msgstr ""
+
+#: cws-metaboxes.php:535
+msgid "Submenu item Background color"
+msgstr ""
+
+#: cws-metaboxes.php:542
+msgid "Submenu item Background color on Hover"
+msgstr ""
+
+#: cws-metaboxes.php:562
+msgid "Desktop Menu on Devices"
+msgstr ""
+
+#: cws-metaboxes.php:567
+msgid "Portrait"
+msgstr ""
+
+#: cws-metaboxes.php:568
+msgid "Landscape"
+msgstr ""
+
+#: cws-metaboxes.php:569
+msgid "Both"
+msgstr ""
+
+#: cws-metaboxes.php:573
+msgid "Use mobile menu on desktop PCs"
+msgstr ""
+
+#: cws-metaboxes.php:578
+msgid "Apply Full-Width Menu"
+msgstr ""
+
+#: cws-metaboxes.php:584
+msgid "Use Custom Menu on this Page"
+msgstr ""
+
+#: cws-metaboxes.php:589
+msgid "Select a menu"
+msgstr ""
+
+#: cws-metaboxes.php:603
+msgid "Mobile Menu"
+msgstr ""
+
+#: cws-metaboxes.php:617
+msgid "Mobile Logo"
+msgstr ""
+
+#: cws-metaboxes.php:623
+msgid "High-Resolution mobile logo"
+msgstr ""
+
+#: cws-metaboxes.php:630
+msgid "Mobile Logo Dimensions"
+msgstr ""
+
+#: cws-metaboxes.php:646
+msgid "Sticky"
+msgstr ""
+
+#: cws-metaboxes.php:660
+msgid "Sticky Menu"
+msgstr ""
+
+#: cws-metaboxes.php:665
+msgid "Sticky Logo"
+msgstr ""
+
+#: cws-metaboxes.php:671
+msgid "High-Resolution sticky logo"
+msgstr ""
+
+#: cws-metaboxes.php:678
+msgid "Select a Sticky's Mode"
+msgstr ""
+
+#: cws-metaboxes.php:682
+msgid "Smart"
+msgstr ""
+
+#: cws-metaboxes.php:683 widgets/cws_gallery.php:70
+#: widgets/cws_latest_posts.php:45 widgets/cws_portfolio.php:47
+#: widgets/cws_testimonials.php:95 widgets/cws_text.php:47
+#: widgets/cws_twitter.php:45
+msgid "Simple"
+msgstr ""
+
+#: cws-metaboxes.php:687
+msgid "Sticky Menu Spacings"
+msgstr ""
+
+#: cws-metaboxes.php:690
+msgid "Sticky menu spacings"
+msgstr ""
+
+#: cws-metaboxes.php:691
+msgid "These values should not exceed the menu spacings, which are set in Menu's section"
+msgstr ""
+
+#: cws-metaboxes.php:702
+msgid "Background Color"
+msgstr ""
+
+#: cws-metaboxes.php:703
+msgid "This color is applied to header section including top bar."
+msgstr ""
+
+#: cws-metaboxes.php:712 cws-metaboxes.php:714
+msgid "Background Opacity"
+msgstr ""
+
+#: cws-metaboxes.php:715
+msgid "This option will apply the transparent header when set to \"0\"."
+msgstr ""
+
+#: cws-metaboxes.php:724
+msgid "Override Font Color"
+msgstr ""
+
+#: cws-metaboxes.php:725
+msgid "This color is applied to main menu items and menu icons, submenus will use the color which is set in Typography section.<br /> This option is very useful when transparent menu is set."
+msgstr ""
+
+#: cws-metaboxes.php:733
+msgid "Override Font color on hover"
+msgstr ""
+
+#: cws-metaboxes.php:735
+msgid "Override Font Color on hover"
+msgstr ""
+
+#: cws-metaboxes.php:736
+msgid "This color is applied to main menu items and menu icons on mouse hover, submenus will use the color which is set in Typography section.<br /> This option is very useful when transparent menu is set."
+msgstr ""
+
+#: cws-metaboxes.php:749
+msgid "Add Shadow"
+msgstr ""
+
+#: cws-metaboxes.php:762 cws-metaboxes.php:1570 cws-metaboxes.php:1853
+#: cws-metaboxes.php:2033 cws-metaboxes.php:2306 cws-metaboxes.php:2384
+msgid "Title"
+msgstr ""
+
+#: cws-metaboxes.php:776
+msgid "Title Area"
+msgstr ""
+
+#: cws-metaboxes.php:782
+msgid "Hide Page Title"
+msgstr ""
+
+#: cws-metaboxes.php:798
+msgid "Subtitle Content"
+msgstr ""
+
+#: cws-metaboxes.php:804
+msgid "Title Box Spacings"
+msgstr ""
+
+#: cws-metaboxes.php:814
+msgid "Page Title Size"
+msgstr ""
+
+#: cws-metaboxes.php:820 cws-metaboxes.php:2447 cws-metaboxes.php:2448
+msgid "Override Title Color"
+msgstr ""
+
+#: cws-metaboxes.php:827
+msgid "Subtitle content/Breadcrumbs Font Color"
+msgstr ""
+
+#: cws-metaboxes.php:834
+msgid "Breadcrumbs hover Font Color"
+msgstr ""
+
+#: cws-metaboxes.php:844 cws-metaboxes.php:1224 cws-metaboxes.php:1360
+msgid "Color overlay"
+msgstr ""
+
+#: cws-metaboxes.php:854
+msgid "Color Overlay"
+msgstr ""
+
+#: cws-metaboxes.php:876
+msgid "Add pattern"
+msgstr ""
+
+#: cws-metaboxes.php:883
+msgid "Pattern image"
+msgstr ""
+
+#: cws-metaboxes.php:895
+msgid "Top bar"
+msgstr ""
+
+#: cws-metaboxes.php:909
+msgid "Top Panel"
+msgstr ""
+
+#: cws-metaboxes.php:914
+msgid "Apply Full-Width Top Bar"
+msgstr ""
+
+#: cws-metaboxes.php:919
+msgid "Add Language Bar"
+msgstr ""
+
+#: cws-metaboxes.php:925
+msgid "Language Bar Alignment"
+msgstr ""
+
+#: cws-metaboxes.php:935
+msgid "Content text position"
+msgstr ""
+
+#: cws-metaboxes.php:945
+msgid "Social Icons Alignment"
+msgstr ""
+
+#: cws-metaboxes.php:955
+msgid "Toggle Social Icons"
+msgstr ""
+
+#: cws-metaboxes.php:961 widgets/cws_testimonials.php:186
+#: widgets/cws_testimonials.php:189
+msgid "Content"
+msgstr ""
+
+#: cws-metaboxes.php:964
+msgid "Indent Adjusting"
+msgstr ""
+
+#: cws-metaboxes.php:965
+msgid "Adjust Indents by multiple spaces.<br /> Line breaks are working too."
+msgstr ""
+
+#: cws-metaboxes.php:972 cws-metaboxes.php:1263
+msgid "Top Bar Info"
+msgstr ""
+
+#: cws-metaboxes.php:973 cws-metaboxes.php:1264
+msgid "Add new info row"
+msgstr ""
+
+#: cws-metaboxes.php:979 cws-metaboxes.php:1270
+msgid "Select the icon"
+msgstr ""
+
+#: cws-metaboxes.php:985 cws-metaboxes.php:1276
+msgid "Write main info"
+msgstr ""
+
+#: cws-metaboxes.php:990 cws-metaboxes.php:1281
+msgid "Write URL"
+msgstr ""
+
+#: cws-metaboxes.php:996 cws-metaboxes.php:1287 cws-metaboxes.php:1575
+#: cws-metaboxes.php:1587
+msgid "Link"
+msgstr ""
+
+#: cws-metaboxes.php:997 cws-metaboxes.php:1288 cws-metaboxes.php:1588
+#: cws-metaboxes.php:1612 templates-modules/cws_sc_staff.php:501
+msgid "Email"
+msgstr ""
+
+#: cws-metaboxes.php:998 cws-metaboxes.php:1289 cws-metaboxes.php:1589
+msgid "Skype"
+msgstr ""
+
+#: cws-metaboxes.php:999 cws-metaboxes.php:1290 cws-metaboxes.php:1590
+msgid "Phone"
+msgstr ""
+
+#: cws-metaboxes.php:1001 cws-metaboxes.php:1292 cws-metaboxes.php:1592
+msgid "Select link type"
+msgstr ""
+
+#: cws-metaboxes.php:1006
+msgid "Customize Background"
+msgstr ""
+
+#: cws-metaboxes.php:1013 cws-metaboxes.php:1179
+msgid "Font Color"
+msgstr ""
+
+#: cws-metaboxes.php:1020
+msgid "Hover Color"
+msgstr ""
+
+#: cws-metaboxes.php:1039 cws-metaboxes.php:1316
+msgid "Add Spacings (px)"
+msgstr ""
+
+#: cws-metaboxes.php:1055
+msgid "Footer"
+msgstr ""
+
+#: cws-metaboxes.php:1069
+msgid "Apply Full-Width Footer"
+msgstr ""
+
+#: cws-metaboxes.php:1074
+msgid "Enable Footer Logo"
+msgstr ""
+
+#: cws-metaboxes.php:1080
+msgid "Footer Logo"
+msgstr ""
+
+#: cws-metaboxes.php:1086
+msgid "High-Resolution footer logo"
+msgstr ""
+
+#: cws-metaboxes.php:1093
+msgid "Dimensions"
+msgstr ""
+
+#: cws-metaboxes.php:1102
+msgid "Enable Footer Icon"
+msgstr ""
+
+#: cws-metaboxes.php:1108
+msgid "Footer Icon Color"
+msgstr ""
+
+#: cws-metaboxes.php:1115
+msgid "Footer Icon Background Color"
+msgstr ""
+
+#: cws-metaboxes.php:1123
+msgid "Select a layout"
+msgstr ""
+
+#: cws-metaboxes.php:1126
+msgid "1/1 Column"
+msgstr ""
+
+#: cws-metaboxes.php:1127
+msgid "2/2 Column"
+msgstr ""
+
+#: cws-metaboxes.php:1128
+msgid "3/3 Column"
+msgstr ""
+
+#: cws-metaboxes.php:1129
+msgid "4/4 Column"
+msgstr ""
+
+#: cws-metaboxes.php:1130
+msgid "2/3 + 1/3 Column"
+msgstr ""
+
+#: cws-metaboxes.php:1131
+msgid "1/3 + 2/3 Column"
+msgstr ""
+
+#: cws-metaboxes.php:1132
+msgid "1/4 + 3/4 Column"
+msgstr ""
+
+#: cws-metaboxes.php:1136
+msgid "Select Footer's Sidebar Area"
+msgstr ""
+
+#: cws-metaboxes.php:1144
+msgid "Copyrights alignment"
+msgstr ""
+
+#: cws-metaboxes.php:1153
+msgid "Copyrights content"
+msgstr ""
+
+#: cws-metaboxes.php:1156
+msgid "Copyright © 2019. All Rights Reserved Metamax"
+msgstr ""
+
+#: cws-metaboxes.php:1160
+msgid "Footer info content"
+msgstr ""
+
+#: cws-metaboxes.php:1163
+msgid "We’re on a mission to build a better future where technology creates good jobs for everyone."
+msgstr ""
+
+#: cws-metaboxes.php:1172
+msgid "Widgets Title Color"
+msgstr ""
+
+#: cws-metaboxes.php:1186
+msgid "Font Color on Hover"
+msgstr ""
+
+#: cws-metaboxes.php:1193
+msgid "Background Color (Copyrights)"
+msgstr ""
+
+#: cws-metaboxes.php:1200
+msgid "Font color (Copyrights)"
+msgstr ""
+
+#: cws-metaboxes.php:1207
+msgid "Hover color (Copyrights)"
+msgstr ""
+
+#: cws-metaboxes.php:1215
+msgid "Pattern Image"
+msgstr ""
+
+#: cws-metaboxes.php:1297
+msgid "Add Instagram Feed"
+msgstr ""
+
+#: cws-metaboxes.php:1303
+msgid "Apply Full-Width Feed"
+msgstr ""
+
+#: cws-metaboxes.php:1308
+msgid "Instagram Shortcode"
+msgstr ""
+
+#: cws-metaboxes.php:1332 widgets/cws_portfolio.php:78
+msgid "Layout"
+msgstr ""
+
+#: cws-metaboxes.php:1347
+msgid "Apply Page Boxed Layout"
+msgstr ""
+
+#: cws-metaboxes.php:1413
+msgid "Side Panel"
+msgstr ""
+
+#: cws-metaboxes.php:1418
+msgid "Menu Icon Location"
+msgstr ""
+
+#: cws-metaboxes.php:1423
+msgid "TopBar (Left)"
+msgstr ""
+
+#: cws-metaboxes.php:1424
+msgid "TopBar (Right)"
+msgstr ""
+
+#: cws-metaboxes.php:1425
+msgid "Menu (Left)"
+msgstr ""
+
+#: cws-metaboxes.php:1426
+msgid "Menu (Right)"
+msgstr ""
+
+#: cws-metaboxes.php:1430
+msgid "Side Panel Position"
+msgstr ""
+
+#: cws-metaboxes.php:1440
+msgid "Select the Sidebar Area"
+msgstr ""
+
+#: cws-metaboxes.php:1447
+msgid "Animation Format"
+msgstr ""
+
+#: cws-metaboxes.php:1451
+msgid "Fade & Slide"
+msgstr ""
+
+#: cws-metaboxes.php:1452
+msgid "Slide"
+msgstr ""
+
+#: cws-metaboxes.php:1453
+msgid "Pull"
+msgstr ""
+
+#: cws-metaboxes.php:1470
+msgid "Logo position"
+msgstr ""
+
+#: cws-metaboxes.php:1489
+msgid "Background image"
+msgstr ""
+
+#: cws-metaboxes.php:1530
+msgid "Font color"
+msgstr ""
+
+#: cws-metaboxes.php:1537
+msgid "Font color on Hover"
+msgstr ""
+
+#: cws-metaboxes.php:1544
+msgid "Fixed info Background"
+msgstr ""
+
+#: cws-metaboxes.php:1551
+msgid "Add social icon to Fixed Info Bar"
+msgstr ""
+
+#: cws-metaboxes.php:1562
+msgid "Fixed Information"
+msgstr ""
+
+#: cws-metaboxes.php:1563
+msgid "Add new information row"
+msgstr ""
+
+#: cws-metaboxes.php:1581 widgets/cws_contact.php:56
+msgid "Icon"
+msgstr ""
+
+#: cws-metaboxes.php:1608 templates-modules/cws_sc_classes.php:1224
+#: templates-modules/cws_sc_staff.php:495
+msgid "Experience"
+msgstr ""
+
+#: cws-metaboxes.php:1616 templates-modules/cws_sc_staff.php:507
+msgid "Tel"
+msgstr ""
+
+#: cws-metaboxes.php:1621 templates-modules/cws_sc_staff.php:513
+msgid "Biography"
+msgstr ""
+
+#: cws-metaboxes.php:1638
+msgid "Select the icon for this social contact"
+msgstr ""
+
+#: cws-metaboxes.php:1655 cws-metaboxes.php:1920
+msgid "Page Sidebars Settings"
+msgstr ""
+
+#: cws-metaboxes.php:1687
+msgid "Full Width"
+msgstr ""
+
+#: cws-metaboxes.php:1692
+msgid "Project Description"
+msgstr ""
+
+#: cws-metaboxes.php:1696
+msgid "Left + Sticky"
+msgstr ""
+
+#: cws-metaboxes.php:1698
+msgid "Right + Sticky"
+msgstr ""
+
+#: cws-metaboxes.php:1703
+msgid "Content Width"
+msgstr ""
+
+#: cws-metaboxes.php:1705
+msgid "1/4"
+msgstr ""
+
+#: cws-metaboxes.php:1706
+msgid "1/3"
+msgstr ""
+
+#: cws-metaboxes.php:1707
+msgid "1/2"
+msgstr ""
+
+#: cws-metaboxes.php:1708
+msgid "2/3"
+msgstr ""
+
+#: cws-metaboxes.php:1713
+msgid "Portfolio Single's Format"
+msgstr ""
+
+#: cws-metaboxes.php:1715
+msgid "Featured Image"
+msgstr ""
+
+#: cws-metaboxes.php:1716 cws-metaboxes.php:2231 widgets/cws_gallery.php:17
+msgid "Gallery"
+msgstr ""
+
+#: cws-metaboxes.php:1717 cws-metaboxes.php:2237
+msgid "Slider"
+msgstr ""
+
+#: cws-metaboxes.php:1718
+msgid "External Slider"
+msgstr ""
+
+#: cws-metaboxes.php:1719 cws-metaboxes.php:2276
+msgid "Video"
+msgstr ""
+
+#: cws-metaboxes.php:1728 cws-metaboxes.php:1738
+msgid "Add Media"
+msgstr ""
+
+#: cws-metaboxes.php:1749
+msgid "Add Shortcode"
+msgstr ""
+
+#: cws-metaboxes.php:1761
+msgid "YouTube"
+msgstr ""
+
+#: cws-metaboxes.php:1762
+msgid "Vimeo"
+msgstr ""
+
+#: cws-metaboxes.php:1763
+msgid "Other"
+msgstr ""
+
+#: cws-metaboxes.php:1771 cws-metaboxes.php:1781
+msgid "Video ID"
+msgstr ""
+
+#: cws-metaboxes.php:1791
+msgid "Video URL"
+msgstr ""
+
+#: cws-metaboxes.php:1803
+msgid "Isotope Layout"
+msgstr ""
+
+#: cws-metaboxes.php:1807 cws-metaboxes.php:1867 cws-metaboxes.php:2038
+#: cws-metaboxes.php:2403 widgets/cws_portfolio.php:99
+msgid "Columns"
+msgstr ""
+
+#: cws-metaboxes.php:1810 cws-metaboxes.php:1821 cws-metaboxes.php:1870
+msgid "One"
+msgstr ""
+
+#: cws-metaboxes.php:1818
+msgid "Lines"
+msgstr ""
+
+#: cws-metaboxes.php:1830
+msgid "This option is used in the Isotope Portfolio Layout only. The image will take the selected number of Columns/Lines and will be displayed accordingly."
+msgstr ""
+
+#: cws-metaboxes.php:1837
+msgid "Related Items"
+msgstr ""
+
+#: cws-metaboxes.php:1840
+msgid "Display items carousel for this portfolio post"
+msgstr ""
+
+#: cws-metaboxes.php:1846
+msgid "Show related Items"
+msgstr ""
+
+#: cws-metaboxes.php:1854
+msgid "Related projects"
+msgstr ""
+
+#: cws-metaboxes.php:1858 cws-metaboxes.php:2048 cws-metaboxes.php:2425
+#: widgets/cws_portfolio.php:87 widgets/cws_testimonials.php:137
+msgid "Categories"
+msgstr ""
+
+#: cws-metaboxes.php:1878
+msgid "Number of Related Items"
+msgstr ""
+
+#: cws-metaboxes.php:1888
+msgid "Hover"
+msgstr ""
+
+#: cws-metaboxes.php:1891
+msgid "Enable Hover"
+msgstr ""
+
+#: cws-metaboxes.php:1898
+msgid "Open in a popup"
+msgstr ""
+
+#: cws-metaboxes.php:1904
+msgid "Single Link"
+msgstr ""
+
+#: cws-metaboxes.php:1910
+msgid "Add Custom URL"
+msgstr ""
+
+#: cws-metaboxes.php:1952
+msgid "Link Options"
+msgstr ""
+
+#: cws-metaboxes.php:1956
+msgid "Post"
+msgstr ""
+
+#: cws-metaboxes.php:1957
+msgid "Custom Url"
+msgstr ""
+
+#: cws-metaboxes.php:1962
+msgid "Custom url"
+msgstr ""
+
+#: cws-metaboxes.php:1967
+msgid "Add Button Link"
+msgstr ""
+
+#: cws-metaboxes.php:1973
+msgid "Title Link Button"
+msgstr ""
+
+#: cws-metaboxes.php:1977
+msgid "Teacher"
+msgstr ""
+
+#: cws-metaboxes.php:1985
+msgid "Show Details Teacher Page"
+msgstr ""
+
+#: cws-metaboxes.php:1991
+msgid "Price"
+msgstr ""
+
+#: cws-metaboxes.php:1996
+msgid "Date Events"
+msgstr ""
+
+#: cws-metaboxes.php:2000
+msgid "Time Events"
+msgstr ""
+
+#: cws-metaboxes.php:2005
+msgid "Destination Events"
+msgstr ""
+
+#: cws-metaboxes.php:2008
+msgid "Show featured image on single"
+msgstr ""
+
+#: cws-metaboxes.php:2014
+msgid "Wide featured image"
+msgstr ""
+
+#: cws-metaboxes.php:2019
+msgid "Display items carousel for this post"
+msgstr ""
+
+#: cws-metaboxes.php:2025 cws-metaboxes.php:2371
+msgid "Show related items"
+msgstr ""
+
+#: cws-metaboxes.php:2034 cws-metaboxes.php:2385
+msgid "Related items"
+msgstr ""
+
+#: cws-metaboxes.php:2041 cws-metaboxes.php:2247 cws-metaboxes.php:2406
+msgid "one"
+msgstr ""
+
+#: cws-metaboxes.php:2042 cws-metaboxes.php:2248 cws-metaboxes.php:2407
+msgid "two"
+msgstr ""
+
+#: cws-metaboxes.php:2043 cws-metaboxes.php:2249 cws-metaboxes.php:2408
+msgid "three"
+msgstr ""
+
+#: cws-metaboxes.php:2044 cws-metaboxes.php:2250 cws-metaboxes.php:2409
+msgid "four"
+msgstr ""
+
+#: cws-metaboxes.php:2056 cws-metaboxes.php:2414
+msgid "Number of items to show"
+msgstr ""
+
+#: cws-metaboxes.php:2063 cws-metaboxes.php:2070
+msgid "Working Days"
+msgstr ""
+
+#: cws-metaboxes.php:2064
+msgid "Add New Working Days"
+msgstr ""
+
+#: cws-metaboxes.php:2075 widgets/cws_gallery.php:40
+#: widgets/cws_latest_posts.php:15 widgets/cws_portfolio.php:17
+#: widgets/cws_testimonials.php:65 widgets/cws_text.php:17
+#: widgets/cws_twitter.php:15
+msgid "From"
+msgstr ""
+
+#: cws-metaboxes.php:2080 widgets/cws_gallery.php:46
+#: widgets/cws_latest_posts.php:21 widgets/cws_portfolio.php:23
+#: widgets/cws_testimonials.php:71 widgets/cws_text.php:23
+#: widgets/cws_twitter.php:21
+msgid "To"
+msgstr ""
+
+#: cws-metaboxes.php:2160
+msgid "Disable Full Width Megamenu"
+msgstr ""
+
+#: cws-metaboxes.php:2165
+msgid "Set Fixed Width (in px)"
+msgstr ""
+
+#: cws-metaboxes.php:2171
+msgid "Dropdown Position"
+msgstr ""
+
+#: cws-metaboxes.php:2198
+msgid "Display controls"
+msgstr ""
+
+#: cws-metaboxes.php:2235
+msgid "Gallery type"
+msgstr ""
+
+#: cws-metaboxes.php:2238 widgets/cws_portfolio.php:81
+msgid "Grid"
+msgstr ""
+
+#: cws-metaboxes.php:2239
+msgid "Custom Grid"
+msgstr ""
+
+#: cws-metaboxes.php:2244
+msgid "Grid columns"
+msgstr ""
+
+#: cws-metaboxes.php:2254
+msgid "Choose Your Custom Grid"
+msgstr ""
+
+#: cws-metaboxes.php:2279
+msgid "Direct URL path of a video file"
+msgstr ""
+
+#: cws-metaboxes.php:2287
+msgid "Audio"
+msgstr ""
+
+#: cws-metaboxes.php:2290
+msgid "A self-hosted or SoundClod audio file URL"
+msgstr ""
+
+#: cws-metaboxes.php:2291
+msgid "Ex.: /wp-content/uploads/audio.mp3 or http://soundcloud.com/..."
+msgstr ""
+
+#: cws-metaboxes.php:2299 widgets/cws_text.php:90
+msgid "Url"
+msgstr ""
+
+#: cws-metaboxes.php:2302
+msgid "URL"
+msgstr ""
+
+#: cws-metaboxes.php:2314
+msgid "Quote"
+msgstr ""
+
+#: cws-metaboxes.php:2317
+msgid "Enter the quote"
+msgstr ""
+
+#: cws-metaboxes.php:2322 cws-metaboxes.php:2427
+msgid "Author"
+msgstr ""
+
+#: cws-metaboxes.php:2328
+msgid "Sidebars Settings"
+msgstr ""
+
+#: cws-metaboxes.php:2360
+msgid "Show featured image on single post"
+msgstr ""
+
+#: cws-metaboxes.php:2367
+msgid "Full-Width Featured Image"
+msgstr ""
+
+#: cws-metaboxes.php:2377
+msgid "Related items settings"
+msgstr ""
+
+#: cws-metaboxes.php:2388
+msgid "Categories (Filter)"
+msgstr ""
+
+#: cws-metaboxes.php:2397
+msgid "Text length"
+msgstr ""
+
+#: cws-metaboxes.php:2419
+msgid "Hide"
+msgstr ""
+
+#: cws-metaboxes.php:2426 widgets/cws_testimonials.php:145
+msgid "Tags"
+msgstr ""
+
+#: cws-metaboxes.php:2428
+msgid "Likes"
+msgstr ""
+
+#: cws-metaboxes.php:2429
+msgid "Date"
+msgstr ""
+
+#: cws-metaboxes.php:2430
+msgid "Comments"
+msgstr ""
+
+#: cws-metaboxes.php:2432
+msgid "Social Icons"
+msgstr ""
+
+#: cws-metaboxes.php:2433
+msgid "Excerpt"
+msgstr ""
+
+#: cws-metaboxes.php:2441
+msgid "Edit Colors"
+msgstr ""
+
+#: cws-metaboxes.php:2445
+msgid "Title Color"
+msgstr ""
+
+#: cws-metaboxes.php:2456
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: cws-metaboxes.php:2463
+msgid "Breadcrumbs Hover Color"
+msgstr ""
+
+#: cws-metaboxes.php:2472
+msgid "Add Title Spacings"
+msgstr ""
+
+#: cws-metaboxes.php:2479
+msgid "Top (in px)"
+msgstr ""
+
+#: cws-metaboxes.php:2480
+msgid "Bottom (in px)"
+msgstr ""
+
+#: cws_thumb.php:141
+msgid "Error: "
+msgstr ""
+
+#: cws_thumb.php:141
+msgid ""
+"Please \n"
+"                    make sure the PHP GD library is properly installed."
+msgstr ""
+
+#: templates-modules/cws_sc_classes.php:672
+msgid "by "
+msgstr ""
+
+#: templates-modules/cws_sc_classes.php:1064
+#: templates-modules/cws_sc_events.php:782
+msgid "&#x2c;&#x20;"
+msgstr ""
+
+#: templates-modules/cws_sc_classes.php:1152
+#: templates-modules/cws_sc_portfolio.php:927
+#: templates-modules/cws_sc_portfolio.php:1114
+msgid ",&#x20;"
+msgstr ""
+
+#: templates-modules/cws_sc_classes.php:1229
+msgid "All Events"
+msgstr ""
+
+#: widgets/cws_about.php:11 widgets/cws_banner.php:10
+#: widgets/cws_categories.php:10 widgets/cws_contact.php:11
+#: widgets/cws_gallery.php:11 widgets/cws_text.php:10
+msgid "Widget title"
+msgstr ""
+
+#: widgets/cws_about.php:23
+msgid "Width (px)"
+msgstr ""
+
+#: widgets/cws_about.php:28
+msgid "Height (px)"
+msgstr ""
+
+#: widgets/cws_about.php:33
+msgid "Avatar link"
+msgstr ""
+
+#: widgets/cws_about.php:38
+msgid "Name"
+msgstr ""
+
+#: widgets/cws_about.php:45
+msgid "About Me"
+msgstr ""
+
+#: widgets/cws_about.php:51
+msgid "Signature"
+msgstr ""
+
+#: widgets/cws_about.php:58 widgets/cws_banner.php:148
+#: widgets/cws_categories.php:25
+msgid "Add information about yourself"
+msgstr ""
+
+#: widgets/cws_about.php:59
+msgid "CWS About"
+msgstr ""
+
+#: widgets/cws_banner.php:17
+msgid "Banner Alignment"
+msgstr ""
+
+#: widgets/cws_banner.php:25
+msgid "Banner Background Image"
+msgstr ""
+
+#: widgets/cws_banner.php:30
+msgid "Banner title"
+msgstr ""
+
+#: widgets/cws_banner.php:36
+msgid "Title Description"
+msgstr ""
+
+#: widgets/cws_banner.php:44
+msgid "Title color"
+msgstr ""
+
+#: widgets/cws_banner.php:50
+msgid "Text color"
+msgstr ""
+
+#: widgets/cws_banner.php:54
+msgid "Add Title Divider"
+msgstr ""
+
+#: widgets/cws_banner.php:62
+msgid "Divider color"
+msgstr ""
+
+#: widgets/cws_banner.php:67
+msgid "Add Overlay"
+msgstr ""
+
+#: widgets/cws_banner.php:79
+msgid "Overlay Opacity"
+msgstr ""
+
+#: widgets/cws_banner.php:86
+msgid "Add Button"
+msgstr ""
+
+#: widgets/cws_banner.php:92
+msgid "Button Title"
+msgstr ""
+
+#: widgets/cws_banner.php:97
+msgid "Button Url"
+msgstr ""
+
+#: widgets/cws_banner.php:104
+msgid "Button title color"
+msgstr ""
+
+#: widgets/cws_banner.php:110
+msgid "Button title color (Hover)"
+msgstr ""
+
+#: widgets/cws_banner.php:117
+msgid "Button background color"
+msgstr ""
+
+#: widgets/cws_banner.php:123
+msgid "Button background color (Hover)"
+msgstr ""
+
+#: widgets/cws_banner.php:130
+msgid "Button border color"
+msgstr ""
+
+#: widgets/cws_banner.php:136
+msgid "Button border color (Hover)"
+msgstr ""
+
+#: widgets/cws_banner.php:141
+msgid "Open in New Tab"
+msgstr ""
+
+#: widgets/cws_banner.php:149
+msgid "CWS Banner"
+msgstr ""
+
+#: widgets/cws_categories.php:16
+msgid "Categories to show"
+msgstr ""
+
+#: widgets/cws_categories.php:26
+msgid "CWS Categories"
+msgstr ""
+
+#: widgets/cws_contact.php:18
+msgid "Logotype"
+msgstr ""
+
+#: widgets/cws_contact.php:36
+msgid "Contact info"
+msgstr ""
+
+#: widgets/cws_contact.php:44
+msgid "Information"
+msgstr ""
+
+#: widgets/cws_contact.php:45
+msgid "Add new field"
+msgstr ""
+
+#: widgets/cws_contact.php:50
+msgid "Description"
+msgstr ""
+
+#: widgets/cws_contact.php:61
+msgid "Social links"
+msgstr ""
+
+#: widgets/cws_contact.php:67
+msgid "Icons to show"
+msgstr ""
+
+#: widgets/cws_contact.php:73
+msgid "Shape"
+msgstr ""
+
+#: widgets/cws_contact.php:78
+msgid "Hexagon"
+msgstr ""
+
+#: widgets/cws_contact.php:79
+msgid "Rounded"
+msgstr ""
+
+#: widgets/cws_contact.php:80
+msgid "Circle"
+msgstr ""
+
+#: widgets/cws_contact.php:98
+msgid "Icon color (Hover)"
+msgstr ""
+
+#: widgets/cws_contact.php:105
+msgid "Background color (Hover)"
+msgstr ""
+
+#: widgets/cws_contact.php:113 widgets/cws_gallery.php:96
+#: widgets/cws_latest_posts.php:71 widgets/cws_portfolio.php:73
+#: widgets/cws_testimonials.php:121 widgets/cws_text.php:73
+#: widgets/cws_twitter.php:71
+msgid "Size"
+msgstr ""
+
+#: widgets/cws_contact.php:119
+msgid "Alignment"
+msgstr ""
+
+#: widgets/cws_contact.php:131
+msgid "Add description, information, social links about site"
+msgstr ""
+
+#: widgets/cws_contact.php:132
+msgid "CWS Contact info"
+msgstr ""
+
+#: widgets/cws_gallery.php:22
+msgid "Gallery Columns"
+msgstr ""
+
+#: widgets/cws_gallery.php:25
+msgid "1 Column"
+msgstr ""
+
+#: widgets/cws_gallery.php:26
+msgid "2 Columns"
+msgstr ""
+
+#: widgets/cws_gallery.php:27
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/cws_gallery.php:28
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/cws_gallery.php:32
+msgid "Add Carousel"
+msgstr ""
+
+#: widgets/cws_gallery.php:51 widgets/cws_gallery.php:66
+#: widgets/cws_gallery.php:75 widgets/cws_latest_posts.php:26
+#: widgets/cws_latest_posts.php:41 widgets/cws_latest_posts.php:50
+#: widgets/cws_portfolio.php:28 widgets/cws_portfolio.php:43
+#: widgets/cws_portfolio.php:52 widgets/cws_testimonials.php:76
+#: widgets/cws_testimonials.php:91 widgets/cws_testimonials.php:100
+#: widgets/cws_text.php:28 widgets/cws_text.php:43 widgets/cws_text.php:52
+#: widgets/cws_twitter.php:26 widgets/cws_twitter.php:41
+#: widgets/cws_twitter.php:50
+msgid "Gradient type"
+msgstr ""
+
+#: widgets/cws_gallery.php:55 widgets/cws_latest_posts.php:30
+#: widgets/cws_portfolio.php:32 widgets/cws_testimonials.php:80
+#: widgets/cws_text.php:32 widgets/cws_twitter.php:30
+msgid "Linear"
+msgstr ""
+
+#: widgets/cws_gallery.php:56 widgets/cws_latest_posts.php:31
+#: widgets/cws_portfolio.php:33 widgets/cws_testimonials.php:81
+#: widgets/cws_text.php:33 widgets/cws_twitter.php:31
+msgid "Radial"
+msgstr ""
+
+#: widgets/cws_gallery.php:61 widgets/cws_latest_posts.php:36
+#: widgets/cws_portfolio.php:38 widgets/cws_testimonials.php:86
+#: widgets/cws_text.php:38 widgets/cws_twitter.php:36
+msgid "Angle"
+msgstr ""
+
+#: widgets/cws_gallery.php:71 widgets/cws_latest_posts.php:46
+#: widgets/cws_portfolio.php:48 widgets/cws_testimonials.php:96
+#: widgets/cws_text.php:48 widgets/cws_twitter.php:46
+msgid "Extended"
+msgstr ""
+
+#: widgets/cws_gallery.php:79 widgets/cws_latest_posts.php:54
+#: widgets/cws_portfolio.php:56 widgets/cws_testimonials.php:104
+#: widgets/cws_text.php:56 widgets/cws_twitter.php:54
+msgid "Ellipse"
+msgstr ""
+
+#: widgets/cws_gallery.php:80 widgets/cws_latest_posts.php:55
+#: widgets/cws_portfolio.php:57 widgets/cws_testimonials.php:105
+#: widgets/cws_text.php:57 widgets/cws_twitter.php:55
+msgid "Cirle"
+msgstr ""
+
+#: widgets/cws_gallery.php:85 widgets/cws_latest_posts.php:60
+#: widgets/cws_portfolio.php:62 widgets/cws_testimonials.php:110
+#: widgets/cws_text.php:62 widgets/cws_twitter.php:60
+msgid "Size keyword"
+msgstr ""
+
+#: widgets/cws_gallery.php:88 widgets/cws_latest_posts.php:63
+#: widgets/cws_portfolio.php:65 widgets/cws_testimonials.php:113
+#: widgets/cws_text.php:65 widgets/cws_twitter.php:63
+msgid "Closest side"
+msgstr ""
+
+#: widgets/cws_gallery.php:89 widgets/cws_latest_posts.php:64
+#: widgets/cws_portfolio.php:66 widgets/cws_testimonials.php:114
+#: widgets/cws_text.php:66 widgets/cws_twitter.php:64
+msgid "Farthest side"
+msgstr ""
+
+#: widgets/cws_gallery.php:90 widgets/cws_latest_posts.php:65
+#: widgets/cws_portfolio.php:67 widgets/cws_testimonials.php:115
+#: widgets/cws_text.php:67 widgets/cws_twitter.php:65
+msgid "Closest corner"
+msgstr ""
+
+#: widgets/cws_gallery.php:91 widgets/cws_latest_posts.php:66
+#: widgets/cws_portfolio.php:68 widgets/cws_testimonials.php:116
+#: widgets/cws_text.php:68 widgets/cws_twitter.php:66
+msgid "Farthest corner"
+msgstr ""
+
+#: widgets/cws_gallery.php:104
+msgid "Create gallery from media"
+msgstr ""
+
+#: widgets/cws_gallery.php:105
+msgid "CWS Gallery"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:9 widgets/cws_portfolio.php:10
+#: widgets/cws_testimonials.php:9 widgets/cws_twitter.php:9
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:76
+msgid "Post categories"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:83
+msgid "Exclude (Post formats)"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:91 widgets/cws_testimonials.php:162
+msgid "Post count"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:96 widgets/cws_testimonials.php:167
+msgid "Posts per slide"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:101 widgets/cws_testimonials.php:172
+msgid "Count of chars from post content"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:105
+msgid "Show content"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:112 widgets/cws_testimonials.php:196
+#: widgets/cws_twitter.php:86
+msgid "Show date"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:117
+msgid "Show categories"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:122
+msgid "CWS most recent posts"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:123
+msgid "CWS Recent Posts"
+msgstr ""
+
+#: widgets/cws_latest_posts.php:240 widgets/cws_testimonials.php:384
+msgid "..."
+msgstr ""
+
+#: widgets/cws_latest_posts.php:293 widgets/cws_portfolio.php:249
+#: widgets/cws_testimonials.php:416
+msgid "There are no posts matching the query"
+msgstr ""
+
+#: widgets/cws_portfolio.php:82
+msgid "Carousel"
+msgstr ""
+
+#: widgets/cws_portfolio.php:93
+msgid "Spacings (px)"
+msgstr ""
+
+#: widgets/cws_portfolio.php:110
+msgid "Items Count"
+msgstr ""
+
+#: widgets/cws_portfolio.php:117
+msgid "Portfolio Items"
+msgstr ""
+
+#: widgets/cws_portfolio.php:118
+msgid "CWS Portfolio"
+msgstr ""
+
+#: widgets/cws_testimonials.php:14
+msgid "Show icon options"
+msgstr ""
+
+#: widgets/cws_testimonials.php:20
+msgid "Icon type"
+msgstr ""
+
+#: widgets/cws_testimonials.php:25
+msgid "icon"
+msgstr ""
+
+#: widgets/cws_testimonials.php:26
+msgid "image"
+msgstr ""
+
+#: widgets/cws_testimonials.php:30
+msgid "Font Awesome character"
+msgstr ""
+
+#: widgets/cws_testimonials.php:36
+msgid "Custom icon"
+msgstr ""
+
+#: widgets/cws_testimonials.php:47
+msgid "Background type"
+msgstr ""
+
+#: widgets/cws_testimonials.php:58
+msgid "Icon background color"
+msgstr ""
+
+#: widgets/cws_testimonials.php:127
+msgid "Filter by"
+msgstr ""
+
+#: widgets/cws_testimonials.php:153
+msgid "Posts"
+msgstr ""
+
+#: widgets/cws_testimonials.php:176
+msgid "Show"
+msgstr ""
+
+#: widgets/cws_testimonials.php:190
+msgid "Exerpt"
+msgstr ""
+
+#: widgets/cws_testimonials.php:201
+msgid "CWS testimonials posts"
+msgstr ""
+
+#: widgets/cws_testimonials.php:202
+msgid "CWS Testimonials"
+msgstr ""
+
+#: widgets/cws_testimonials.php:333 widgets/cws_testimonials.php:344
+msgid ", "
+msgstr ""
+
+#: widgets/cws_testimonials.php:346
+msgid "/ "
+msgstr ""
+
+#: widgets/cws_text.php:78
+msgid "Text"
+msgstr ""
+
+#: widgets/cws_text.php:84
+msgid "Add link"
+msgstr ""
+
+#: widgets/cws_text.php:95
+msgid "Link text"
+msgstr ""
+
+#: widgets/cws_text.php:103
+msgid "Modified WP Text widget"
+msgstr ""
+
+#: widgets/cws_text.php:104
+msgid "CWS Text"
+msgstr ""
+
+#: widgets/cws_twitter.php:76
+msgid "Tweets to extract"
+msgstr ""
+
+#: widgets/cws_twitter.php:81
+msgid "Tweets to show"
+msgstr ""
+
+#: widgets/cws_twitter.php:94
+msgid "CWS Twitter Widget"
+msgstr ""
+
+#: widgets/cws_twitter.php:95
+msgid "CWS Twitter"
+msgstr ""

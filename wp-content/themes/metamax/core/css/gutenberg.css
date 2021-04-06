@@ -1,0 +1,37 @@
+/**************************/
+/* Gutenberg Optimization */
+/**************************/
+.post-type-post .wp-block{
+  max-width: 830px;
+}
+.post-type-page .wp-block{
+  max-width: 1170px;
+}
+.wp-block[data-align="wide"]{
+	max-width: 1170px;
+}
+.wp-block[data-align="full"]{
+	max-width: none;
+}
+
+
+/* -----> Gutenberg contents <----- */
+ul.editor-rich-text__tinymce{
+  list-style-type: none !important;
+  padding-left: 0;
+  margin-left: 0;
+}
+ul.editor-rich-text__tinymce li:before{
+  content: '';
+  width: 8px;
+  height: 8px;
+  margin: -3px 10px 0 0;
+  vertical-align: middle;
+  display: inline-block;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #000;
+  -webkit-box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.05);
+}

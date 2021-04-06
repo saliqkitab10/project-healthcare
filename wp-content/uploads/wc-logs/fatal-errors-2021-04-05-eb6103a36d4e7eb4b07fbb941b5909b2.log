@@ -1,0 +1,10 @@
+2021-04-05T09:19:22+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/cws-demo-importer/importer.php:1448
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/cws-demo-importer/importer.php(1286): WP_CWS_Demo_Import->fetch_remote_file('https://metamax...', Array)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/cws-demo-importer/importer.php(1116): WP_CWS_Demo_Import->process_attachment(Array, 'https://metamax...')
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/cws-demo-importer/importer.php(450): WP_CWS_Demo_Import->process_posts()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/cws-demo-importer/cws-demo-importer.php(98): WP_CWS_Demo_Import->import('/Applications/M...', Array, '7')
+#4 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(292): cws_imp_run('')
+#5 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#6 /Applications/MAMP/htdocs/wordpr in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/cws-demo-importer/importer.php on line 1448
+
